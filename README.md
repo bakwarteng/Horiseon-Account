@@ -1,1 +1,2 @@
-# Horiseon-Account Kept the same layout and information and made code more accessible for the purposes of organization and readability.
+# Horiseon-Account
+<p> Kept the layout and information the same, but organized the code in order to improve accessibility and readability </p>
